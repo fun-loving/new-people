@@ -1,7 +1,7 @@
-486236918 <a href="https://github.com/486236918/" target="_blank">主页</a>
-# 主页
-## java环境配置的截图
-![java环境配置截图](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191126234237.png)
+486236918 <一个HREF =“ https://github.com/486236918/ ”目标=“ _blank”>主页</-
+＃主ye
+## java环境配置的截置
+！[java环境配置截图]（https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191126234237.png）
 java配置是在他人帮助下完成的。在配置过程中遇到了问题，后面是通过百度和翻书解决的，但整个操作过程都是别人做的，我是在旁边看，并非自己亲手完成。
 ## 装虚拟机的截图
 ！[虚拟机截图](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191126220133.png)
