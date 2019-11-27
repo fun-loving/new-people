@@ -3,7 +3,7 @@
 ## java环境的配置截图
 ![image](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191126234237.png)
 ## 虚拟机的配置截图
-！[image](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191126220133.png)
+![image](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191126220133.png)
 
 
 
