@@ -5,7 +5,7 @@
 ## 虚拟机的配置截图
 ![image](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191126220133.png)
 ## 自我配置的截图
-![image](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191128194155.png)
+![image](https://github.com/486236918/new-people/blob/master/19638ljl/QQ%E5%9B%BE%E7%89%8720191128194155.png)  
     java环境和虚拟机这两个配置的完成是通过百度和翻书完成的。但不是自己独立完成的，基本上都是别人操作，我只是在旁边看。  
     java环境配置步骤:  1.双击安装包，按着提示安装完成；  
                     2. 对我的电脑点击快捷，然后点击属性；  
